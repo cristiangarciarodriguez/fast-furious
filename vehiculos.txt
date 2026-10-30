@@ -1,3 +1,4 @@
+Seat Ibiza 2020
 Seat Ibiza 2022
 Renault Clio
 Ford Fiesta
@@ -8,5 +9,6 @@ Peugeot 208
 Kia Rio
 Hyundai i20
 Opel Corsa
+Skoda Fabia
 Mazda 3
 Citröen C3
